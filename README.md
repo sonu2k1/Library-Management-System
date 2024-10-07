@@ -21,7 +21,7 @@ Before you can run this application you must have the following installed on you
 
 1. Clone this repository to your local machine:
 
-`git clone https://github.com/akgupta55/LMS.git`
+`git clone https://github.com/sonu2k1/Library-Management-System.git`
 
 2. Install the dependencies by running the following command in the project root directory also into client folder:
 
