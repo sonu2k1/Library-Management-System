@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Nunito:wght@600&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Nunito", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Nunito";
+}
+.HomePage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(252, 251, 251);
+}
+.link_class {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+
+.LMS {
+  margin-left: -102px;
+  font-size: 50px;
+  margin-top: -77px;
+  color: white;
+  padding-bottom: 20px;
+}
+.LMS_R {
+  margin-left: -350px;
+  font-size: 50px;
+  margin-top: -77px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+ul li {
+  list-style: none;
+}
+.fa-eye {
+  position: absolute;
+  color: rgb(141, 105, 238);
+  margin-top: -40px;
+  font-size: large;
+  margin-left: 190px;
+}
