@@ -61,7 +61,8 @@ The application should now be running at `http://localhost:3000`. You can access
 
 - User Panel
 
-![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/user%20home.png?raw=true)
+![WhatsApp Image 2024-10-07 at 19 10 04_89bef50f](https://github.com/user-attachments/assets/236de9e1-7250-49bd-915d-976b390e886b)
+
 
 - All book Available
 
