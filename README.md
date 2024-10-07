@@ -48,16 +48,16 @@ The application should now be running at `http://localhost:3000`. You can access
 # Screenshots
 
 - Role Based Login Page
-
-![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/role%20based%20login.png?raw=true)
+  
+![WhatsApp Image 2024-10-07 at 19 10 02_927b52ff](https://github.com/user-attachments/assets/0a68bb0c-a1b4-4a1a-bd5a-ac1556c11eda)
 
 - Login Page
 
-![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/admin%20login.png?raw=true)
+![WhatsApp Image 2024-10-07 at 19 10 02_9f6944dc](https://github.com/user-attachments/assets/57cbc0ae-adf1-4b3e-8e56-da07c2c8275b)
 
 - Admin Panel
 
-![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/admin%20home.png?raw=true)
+![admin](https://github.com/user-attachments/assets/6274b756-1cfe-4ee8-8fb4-07e61b4d57d9)
 
 - User Panel
 
@@ -65,5 +65,6 @@ The application should now be running at `http://localhost:3000`. You can access
 
 
 - All book Available
+  
+![WhatsApp Image 2024-10-07 at 19 10 03_7338c6a8](https://github.com/user-attachments/assets/1150ba88-8fae-483f-86dd-f827c2fc507e)
 
-![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/all%20book.png?raw=true)
