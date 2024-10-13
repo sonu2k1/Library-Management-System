@@ -28,7 +28,7 @@ const Dashboard = () => {
             height: "940px",
             marginLeft: "10px",
             width: "22%",
-            backgroundColor: "#007791",
+            backgroundColor: "#66053f",
           }}
         >
           <Sidebar />
