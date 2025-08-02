@@ -7,7 +7,7 @@ This is a web application built using the MERN (MongoDB, Express.js, React, Node
 - Prerequisites
 - Installation
 - Usage
-- Features
+- Feature
 
 # Prerequisites
 
