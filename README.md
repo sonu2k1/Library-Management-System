@@ -13,7 +13,7 @@ This is a web application built using the MERN stack. It is a library management
 
 Before you can run this application you must have the following installed on your machine:
 
-- Node.js (version 14.8.0) download here (https://nodejs.org/dist/v14.8.0/)
+- Node.js (version 14.8.0) download here (https://nodejs.org/dist/v14.8.0/).
 
 - MongoDB (version 4 or higher)
 
