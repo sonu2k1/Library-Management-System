@@ -37,7 +37,7 @@ To start the application, run the following command in the project root director
 
 The application should now be running at `http://localhost:3000`. You can access it using your web browser.
 
-# Features
+# Features.
 
 - User authentication
 - Role based login (user /admin)
