@@ -1,4 +1,4 @@
-# LIBRARY-MANAGEMENT-SYSTEM (MERN)
+# LIBRARY-MANAGEMENT-SYSTEM (MERN):
 
 This is a web application built using the MERN stack. It is a library management system that allows users to Search and Request Book to the Admin.
 
